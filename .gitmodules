@@ -1,0 +1,3 @@
+[submodule "submodule_ani"]
+	path = submodule_ani
+	url = https://github.com/excellence-center-1/submodule_ani.git
